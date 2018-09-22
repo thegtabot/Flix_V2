@@ -50,7 +50,7 @@ Describe any challenges encountered while building the app.
 It's just really hard doing this with such a hands off approach. Teach us how to use swift first, and then how to use the IDE...  Introduce more structure please.
 ## License
 
-Copyright [2018] [Avishek Thapa Magar]
+Copyright [2018] [Malcolm Gilmore]
 
 
 Licensed under the Apache License, Version 2.0 (the "License");
